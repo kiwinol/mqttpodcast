@@ -1,4 +1,4 @@
-#Script to read multiple rss feeds and seleect a podcast to listen to
+#Script to read multiple rss feeds and select a podcast to listen to
 #!python3
 import paho.mqtt.client as mqtt  #import the client1
 import time
